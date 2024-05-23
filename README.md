@@ -11,9 +11,6 @@ AdminHub Dashboard is a sleek and modern dashboard design created using HTML, CS
 - Charts and graphs for data visualization
 - Customizable and easy to integrate into web applications
 
-## Preview
-
-![AdminHub Dashboard Preview](dashboard-preview.png)
 
 ## Getting Started
 
